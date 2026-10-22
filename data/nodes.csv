@@ -1,0 +1,15 @@
+id,label,type,description,synthetic
+DG-001,Demo compound A,drug,Placeholder compound for graph workflow demonstration,true
+DG-002,Demo compound B,drug,Placeholder compound for graph workflow demonstration,true
+DG-003,Demo compound C,drug,Placeholder compound for graph workflow demonstration,true
+DG-004,Demo compound D,drug,Placeholder compound for graph workflow demonstration,true
+PR-001,Protein X,protein,Placeholder protein node; not a real target assertion,true
+PR-002,Protein Y,protein,Placeholder protein node; not a real target assertion,true
+GN-001,Gene Alpha,gene,Placeholder gene node,true
+GN-002,Gene Beta,gene,Placeholder gene node,true
+PW-001,Pathway North,pathway,Placeholder pathway node,true
+PW-002,Pathway South,pathway,Placeholder pathway node,true
+DS-001,Disease M,disease,Placeholder disease node,true
+DS-002,Disease N,disease,Placeholder disease node,true
+SE-001,Effect Red,side_effect,Placeholder adverse-effect node,true
+SE-002,Effect Blue,side_effect,Placeholder adverse-effect node,true

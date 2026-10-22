@@ -1,0 +1,16 @@
+source,target,relation,evidence,source_name,confidence,synthetic
+DG-001,PR-001,interacts_with,synthetic relationship for UI testing,DrugGraph demo seed,0.7,true
+DG-002,PR-001,interacts_with,synthetic relationship for UI testing,DrugGraph demo seed,0.7,true
+PR-001,GN-001,encoded_by,synthetic relationship for UI testing,DrugGraph demo seed,0.6,true
+GN-001,PW-001,participates_in,synthetic relationship for UI testing,DrugGraph demo seed,0.6,true
+PW-001,DS-001,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.5,true
+DG-004,DS-001,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.4,true
+DG-002,PR-002,interacts_with,synthetic relationship for UI testing,DrugGraph demo seed,0.7,true
+PR-002,GN-002,encoded_by,synthetic relationship for UI testing,DrugGraph demo seed,0.6,true
+GN-002,PW-002,participates_in,synthetic relationship for UI testing,DrugGraph demo seed,0.6,true
+PW-002,DS-002,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.5,true
+DG-003,DS-002,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.4,true
+DG-001,SE-001,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.4,true
+DG-004,SE-001,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.4,true
+DG-003,SE-002,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.4,true
+DG-002,SE-002,associated_with,synthetic relationship for UI testing,DrugGraph demo seed,0.4,true
