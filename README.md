@@ -1,5 +1,13 @@
 # DrugGraph — Knowledge-Graph Hypothesis Explorer
 
+## Live Demo
+
+**Try DrugGraph:** https://druggraph-explorer.netlify.app
+
+Explore the DrugGraph Hypothesis Explorer and visualize candidate drug relationships.
+
+The current demo uses synthetic data for research and educational purposes only. It does not establish confirmed drug interactions.
+
 DrugGraph is a full-stack research prototype for exploring potential drug–drug interaction hypotheses through a biomedical knowledge graph. It combines a React frontend, FastAPI backend, graph traversal, transparent evidence paths, and an optional graph-embedding experiment.
 
 > **Research use only.** DrugGraph is not a clinical decision-support system, does not provide medical advice, and must not be used to start, stop, or change medication. Demonstration data is synthetic. A path in a graph is a hypothesis to investigate, not evidence that a drug interaction exists.
