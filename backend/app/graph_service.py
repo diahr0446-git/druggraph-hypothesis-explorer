@@ -1,10 +1,10 @@
 import csv
+import os
 from pathlib import Path
-from collections import deque
 import networkx as nx
 
 BASE = Path(__file__).resolve().parents[2]
-DATA = BASE / "data"
+DATA = Path(os.getenv("DRUGGRAPH_DATA_DIR", str(BASE / "data")))
 
 def load_graph() -> nx.MultiDiGraph:
     graph = nx.MultiDiGraph()
